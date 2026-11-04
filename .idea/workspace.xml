@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9aa3c51b-8814-4d80-871f-3b3d244124f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -22,6 +28,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3479550031932666" />
+      <entry key="MS500" value="3.8540061257865097" />
+      <entry key="S2" value="9.593222876860482" />
+      <entry key="S5" value="13.65173005917551" />
+      <entry key="S10" value="16.851570117233578" />
+      <entry key="S30" value="20.876188030616564" />
+      <entry key="S60" value="22.774884794137872" />
+      <entry key="M2" value="28.844411835981717" />
+      <entry key="M5" value="53.14533868179846" />
+      <entry key="M10" value="76.10657528061377" />
+      <entry key="M15" value="87.35301835653638" />
+      <entry key="M30" value="101.11858185697581" />
+      <entry key="H1" value="109.12712392051759" />
+      <entry key="H2" value="113.44965101632685" />
+      <entry key="H4" value="115.69557782531407" />
+      <entry key="D1" value="117.61180034445546" />
+      <entry key="W1" value="117.94444089348923" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2651415878401429" />
+      <entry key="MS500" value="3.800587917520159" />
+      <entry key="S2" value="9.561224987269087" />
+      <entry key="S5" value="13.633475657175177" />
+      <entry key="S10" value="16.840064806773068" />
+      <entry key="S30" value="20.87130660559451" />
+      <entry key="S60" value="22.772163824735546" />
+      <entry key="M2" value="28.8425088714867" />
+      <entry key="M5" value="53.143705540825856" />
+      <entry key="M10" value="76.10535238197987" />
+      <entry key="M15" value="87.35207131790925" />
+      <entry key="M30" value="101.11802801287112" />
+      <entry key="H1" value="109.126823703513" />
+      <entry key="H2" value="113.44949463104392" />
+      <entry key="H4" value="115.69549800330093" />
+      <entry key="D1" value="117.61178680920356" />
+      <entry key="W1" value="117.94443895414044" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -46,6 +111,7 @@
     "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +122,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\lab7-task4" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793830899688</updated>
-      <workItem from="1793830900702" duration="346000" />
+      <workItem from="1793830900702" duration="984000" />
     </task>
     <servers />
   </component>
