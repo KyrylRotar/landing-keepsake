@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa3c51b-8814-4d80-871f-3b3d244124f7" name="Changes" comment="" />
+    <list default="true" id="9aa3c51b-8814-4d80-871f-3b3d244124f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,23 +29,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0951043503400333" />
-      <entry key="MS500" value="2.460458118151117" />
-      <entry key="S2" value="3.5634443327980416" />
-      <entry key="S5" value="6.163873957964304" />
-      <entry key="S10" value="13.16850384578799" />
-      <entry key="S30" value="28.303350603848713" />
-      <entry key="S60" value="36.09916046196975" />
-      <entry key="M2" value="44.352292688852856" />
-      <entry key="M5" value="69.0319513689363" />
-      <entry key="M10" value="115.2667452105567" />
-      <entry key="M15" value="151.32032252050996" />
-      <entry key="M30" value="211.77240433022246" />
-      <entry key="H1" value="256.92144346418496" />
-      <entry key="H2" value="284.78655331855344" />
-      <entry key="H4" value="300.3052533682206" />
-      <entry key="D1" value="314.1317782849539" />
-      <entry key="W1" value="316.5880980152255" />
+      <entry key="MS100" value="1.4026406458441114" />
+      <entry key="MS500" value="3.1099512507719553" />
+      <entry key="S2" value="8.118458727535572" />
+      <entry key="S5" value="15.878495115220593" />
+      <entry key="S10" value="25.008896874822636" />
+      <entry key="S30" value="41.13844909347228" />
+      <entry key="S60" value="55.66748625449473" />
+      <entry key="M2" value="84.10021921739676" />
+      <entry key="M5" value="144.5293483186113" />
+      <entry key="M10" value="210.69583545277888" />
+      <entry key="M15" value="259.42309861555947" />
+      <entry key="M30" value="346.2522173756759" />
+      <entry key="H1" value="416.4589357786167" />
+      <entry key="H2" value="462.10120351604087" />
+      <entry key="H4" value="488.26721300377244" />
+      <entry key="D1" value="512.021023638748" />
+      <entry key="W1" value="516.2838957544096" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -65,61 +67,65 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0561105396529509" />
-      <entry key="MS500" value="2.4381252832976954" />
-      <entry key="S2" value="3.554886312510154" />
-      <entry key="S5" value="6.157302502719159" />
-      <entry key="S10" value="13.160911761035116" />
-      <entry key="S30" value="28.297700967489273" />
-      <entry key="S60" value="36.09552891130432" />
-      <entry key="M2" value="44.35004411990332" />
-      <entry key="M5" value="69.03045377101836" />
-      <entry key="M10" value="115.2653582611709" />
-      <entry key="M15" value="151.31904844516595" />
-      <entry key="M30" value="211.77146576093986" />
-      <entry key="H1" value="256.9208593797608" />
-      <entry key="H2" value="284.7862255189083" />
-      <entry key="H4" value="300.3050794660278" />
-      <entry key="D1" value="314.13174781189275" />
-      <entry key="W1" value="316.58809362407897" />
+      <entry key="MS100" value="1.326082546182992" />
+      <entry key="MS500" value="3.054631226480733" />
+      <entry key="S2" value="8.075451724424688" />
+      <entry key="S5" value="15.849225103839851" />
+      <entry key="S10" value="24.987376505534147" />
+      <entry key="S30" value="41.127006959819205" />
+      <entry key="S60" value="55.65982197915299" />
+      <entry key="M2" value="84.09435443576572" />
+      <entry key="M5" value="144.52524801297892" />
+      <entry key="M10" value="210.69285363502732" />
+      <entry key="M15" value="259.42064961245745" />
+      <entry key="M30" value="346.25057365476073" />
+      <entry key="H1" value="416.4579412528264" />
+      <entry key="H2" value="462.1006495436487" />
+      <entry key="H4" value="488.2669196754052" />
+      <entry key="D1" value="512.020972269901" />
+      <entry key="W1" value="516.2838883522916" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Lf2eokx3c6vpjVVuYL5Ertdpec" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/lab7-task4/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\lab7-task4\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Documents\lab7-task4" />
     </key>
@@ -138,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1793830899688</updated>
-      <workItem from="1793830900702" duration="2705000" />
+      <workItem from="1793830900702" duration="3032000" />
     </task>
     <servers />
   </component>
